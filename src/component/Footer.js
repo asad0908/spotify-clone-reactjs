@@ -16,12 +16,12 @@ const Footer = () => {
       <div className="footer__left">
         <img
           className="footer__albumLogo"
-          src="https://i.ibb.co/58fRjz0/wedding.jpg"
+          src="https://i.scdn.co/image/ab67616d00001e02c9723b7665368ef47f7e6214"
           alt="logo"
         />
         <div className="footer__songInfo">
-          <h4>No song is playing</h4>
-          <p>...</p>
+          <h4>Rehnuma</h4>
+          <p>Shreya Ghoshal, Inder Bawra</p>
         </div>
       </div>
 

@@ -29,8 +29,16 @@ const Sidebar = () => {
       {playlists?.items?.map((play) => (
         <SidebarOption title={play.name} />
       ))}
+      <SidebarOption bold title="Discover Weekly" />
       <SidebarOption title="Rock" />
       <SidebarOption title="RnB" />
+      <SidebarOption title="Snakers" />
+      <SidebarOption title="Love Songs" />
+      <SidebarOption title="Rap" />
+      <SidebarOption title="Dance" />
+      <SidebarOption title="Sad songs" />
+      <SidebarOption title="Party" />
+      <SidebarOption title="clubs" />
     </div>
   );
 };
